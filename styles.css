@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
     body{
             background-color: #f5f5f5;
-            margin: 30px;
+            
           
 
         }
@@ -10,10 +10,10 @@
 /* Individual testimonial card */
 .testimonial {
     background-color: #fff; /* White background for each testimonial */
-    padding: 10px; /* Add padding inside the testimonial box */
+    padding: 10px; 
     border: 1px solid grey;
     margin: 13px;
-    padding: 5px;
+   
 	/* width:100% */
    
    
