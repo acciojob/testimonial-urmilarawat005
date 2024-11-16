@@ -1,33 +1,16 @@
 /*  your css code here. If applicable */
     body{
-            background-color: #f5f5f5;
-            
-          
-
-        }
+            background-color: #f5f5f5
+	}
  
-
-/* Individual testimonial card */
 .testimonial {
     background-color: #fff; /* White background for each testimonial */
     padding: 10px; 
     border: 1px solid grey;
-    margin: 13px;
-   
-	/* width:100% */
-   
-   
+    /* margin: 13px; */
    
 }
-
-/* Styling for the quote */
-
-   
-   
-
 .name {
     font-style: italic; 
-   
-    
-   text-align: right;
+    text-align: right;
 }
