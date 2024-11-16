@@ -7,7 +7,7 @@ body {
     background-color: #fff; /* White background for each testimonial */
     padding: 10px; /* Add padding inside the testimonial box */
     border: 1px solid grey;
-    margin: 13px;
+    /* margin: 13px; */
 }
 
 .name {
